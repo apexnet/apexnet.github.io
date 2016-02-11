@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "ApexNet Hexxit SMP\n\n\nServer Address: \napexnet.ga", 
+            "text": "ApexNet Hexxit SMP\n\n\nServer Address: ## \napexnet.ga", 
             "title": "Home"
         }, 
         {
@@ -13,7 +13,7 @@
         {
             "location": "/#server-address-apexnetga", 
             "text": "", 
-            "title": "Server Address: apexnet.ga"
+            "title": "Server Address: ## apexnet.ga"
         }
     ]
 }
