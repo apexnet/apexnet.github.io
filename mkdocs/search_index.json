@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "ApexNet Hexxit SMP\n\n\nServer Address: apexnet.ga\n\n\nGet Hexxit", 
+            "text": "ApexNet Hexxit SMP\n\n\nServer Address: apexnet.ga\n\n\nGet Hexxit\n\n\n\n\nGuide: Installing Hexxit\n\n\nStep 1\n: Download and run Hexxit.exe", 
             "title": "Home"
         }, 
         {
@@ -19,6 +19,16 @@
             "location": "/#get-hexxit", 
             "text": "", 
             "title": "Get Hexxit"
+        }, 
+        {
+            "location": "/#guide-installing-hexxit", 
+            "text": "", 
+            "title": "Guide: Installing Hexxit"
+        }, 
+        {
+            "location": "/#step-1-download-and-run-hexxitexe", 
+            "text": "", 
+            "title": "Step 1: Download and run Hexxit.exe"
         }
     ]
 }
