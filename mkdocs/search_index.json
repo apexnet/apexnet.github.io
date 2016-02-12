@@ -2,58 +2,43 @@
     "docs": [
         {
             "location": "/", 
-            "text": "ApexNet Modded SMP\n\n\nServer Address: apexnet.ga\n\n\nModpack Version: Hexxit (No settings changed)\n\n\nGet Technic for Apex (cracked)\n\n\n\n\nGuide: Installing Hexxit\n\n\nStep 1\n: Download ApexTechnic.exe  and put it on your desktop(above)\n\n\n\n\nStep 2\n: Run it and click install\n\n\n\n\nStep 3\n Wait for Technic to setup.\n\n\n\n\nStep 3\n: Type in your Apex username and login\n\n\n\n\nDone!\n You can launch Technic from your desktop anytime.", 
+            "text": "Apex Launcher\n\n\n\n\nAbout\n\n\nThe Apex Launcher is a modified version of Technic from \nHackPhoenix.com\n\nbuilt for ApexNet servers and uses the ApexNet authentication servers. Make sure to sign in with your\nApexNet username. On most servers, you must enter a PIN every login. You get this username and PIN when\nyou join ApexNet.\n\n\nDownload\n\n\n\n\nModpacks\n\n\nApex Affinity\n\n\nComing March 2015. Battle your way through the tough world of Affinity, with classic\nmods from Big Swords to Battletowers. As you fight your way into the world of fortune,\nyou will unconver the riches, never found in any other modpack on Apex. To vote for mods\nor contribute, email me or join ApexNet community. This modpack is planned to be on\nMC 7.1.2, 1.8, or 1.8.9. Any suggestions would be greatly appreciated\n\n\n\n\nJust put it on your desktop. That's it!\n\n\nContact\n\n\nnexus331@gmail.com", 
             "title": "Home"
         }, 
         {
-            "location": "/#apexnet-modded-smp", 
+            "location": "/#apex-launcher", 
             "text": "", 
-            "title": "ApexNet Modded SMP"
+            "title": "Apex Launcher"
         }, 
         {
-            "location": "/#server-address-apexnetga", 
-            "text": "", 
-            "title": "Server Address: apexnet.ga"
+            "location": "/#about", 
+            "text": "The Apex Launcher is a modified version of Technic from  HackPhoenix.com \nbuilt for ApexNet servers and uses the ApexNet authentication servers. Make sure to sign in with your\nApexNet username. On most servers, you must enter a PIN every login. You get this username and PIN when\nyou join ApexNet.", 
+            "title": "About"
         }, 
         {
-            "location": "/#modpack-version-hexxit-no-settings-changed", 
+            "location": "/#download", 
             "text": "", 
-            "title": "Modpack Version: Hexxit (No settings changed)"
+            "title": "Download"
         }, 
         {
-            "location": "/#get-technic-for-apex-cracked", 
+            "location": "/#modpacks", 
             "text": "", 
-            "title": "Get Technic for Apex (cracked)"
+            "title": "Modpacks"
         }, 
         {
-            "location": "/#guide-installing-hexxit", 
-            "text": "", 
-            "title": "Guide: Installing Hexxit"
+            "location": "/#apex-affinity", 
+            "text": "Coming March 2015. Battle your way through the tough world of Affinity, with classic\nmods from Big Swords to Battletowers. As you fight your way into the world of fortune,\nyou will unconver the riches, never found in any other modpack on Apex. To vote for mods\nor contribute, email me or join ApexNet community. This modpack is planned to be on\nMC 7.1.2, 1.8, or 1.8.9. Any suggestions would be greatly appreciated", 
+            "title": "Apex Affinity"
         }, 
         {
-            "location": "/#step-1-download-apextechnicexe-and-put-it-on-your-desktopabove", 
+            "location": "/#just-put-it-on-your-desktop-thats-it", 
             "text": "", 
-            "title": "Step 1: Download ApexTechnic.exe  and put it on your desktop(above)"
+            "title": "Just put it on your desktop. That's it!"
         }, 
         {
-            "location": "/#step-2-run-it-and-click-install", 
-            "text": "", 
-            "title": "Step 2: Run it and click install"
-        }, 
-        {
-            "location": "/#step-3-wait-for-technic-to-setup", 
-            "text": "", 
-            "title": "Step 3 Wait for Technic to setup."
-        }, 
-        {
-            "location": "/#step-3-type-in-your-apex-username-and-login", 
-            "text": "", 
-            "title": "Step 3: Type in your Apex username and login"
-        }, 
-        {
-            "location": "/#done-you-can-launch-technic-from-your-desktop-anytime", 
-            "text": "", 
-            "title": "Done! You can launch Technic from your desktop anytime."
+            "location": "/#contact", 
+            "text": "nexus331@gmail.com", 
+            "title": "Contact"
         }
     ]
 }
