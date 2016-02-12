@@ -2,18 +2,13 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Apex Launcher\n\n\n@Syndicate31\n\n\nAbout\n\n\nThe Apex Launcher is a modified version of Technic from \nHackPhoenix.com\n\nbuilt for ApexNet servers and uses the ApexNet authentication servers. Make sure to sign in with your\nApexNet username. On most servers, you must enter a PIN every login. You get this username and PIN when\nyou join ApexNet.\n\n\nDownload\n\n\n\n\nJust put it on your desktop. That's it!\n\n\nServers\n\n\nApexNet Hexxit 24/7: \napexnet.ga\n\n\nApexNet Affinity 24/7: \napexnet.ga:1227\n\n\nModpacks\n\n\nApex Affinity\n\n\nComing March 2015. Battle your way through the tough world of Affinity, with classic\nmods from Big Swords to Battletowers. As you fight your way into the world of fortune,\nyou will unconver the riches, never found in any other modpack on Apex. To vote for mods\nor contribute, email me or join ApexNet community. This modpack is planned to be on\nMC 7.1.2, 1.8, or 1.8.9. Any suggestions would be greatly appreciated\n\n\n\n\nContact\n\n\nnexus331@gmail.com", 
+            "text": "Apex Launcher\n\n\nAbout\n\n\nThe Apex Launcher is a modified version of Technic from \nHackPhoenix.com\n\nbuilt for ApexNet servers and uses the ApexNet authentication servers. Make sure to sign in with your\nApexNet username. On most servers, you must enter a PIN every login. You get this username and PIN when\nyou join ApexNet.\n\n\nDownload\n\n\n\n\nJust put it on your desktop. That's it!\n\n\nServers\n\n\nApexNet Hexxit 24/7: \napexnet.ga\n\n\nApexNet Affinity 24/7: \napexnet.ga:1227\n\n\nModpacks\n\n\nApex Affinity\n\n\nComing March 2015. Battle your way through the tough world of Affinity, with classic\nmods from Big Swords to Battletowers. As you fight your way into the world of fortune,\nyou will unconver the riches, never found in any other modpack on Apex. To vote for mods\nor contribute, email me or join ApexNet community. This modpack is planned to be on\nMC 7.1.2, 1.8, or 1.8.9. Any suggestions would be greatly appreciated\n\n\n\n\nContact\n\n\nnexus331@gmail.com", 
             "title": "Home"
         }, 
         {
             "location": "/#apex-launcher", 
             "text": "", 
             "title": "Apex Launcher"
-        }, 
-        {
-            "location": "/#syndicate31", 
-            "text": "", 
-            "title": "@Syndicate31"
         }, 
         {
             "location": "/#about", 
