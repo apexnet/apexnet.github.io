@@ -1,3 +1,6 @@
+cd ..
+mkdocs build
+cd site
 git add --all
 git commit --all -mn
 git push
