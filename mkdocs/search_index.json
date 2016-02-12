@@ -2,18 +2,23 @@
     "docs": [
         {
             "location": "/", 
-            "text": "ApexNet Hexxit SMP\n\n\nServer Address: \napexnet.ga\n\n\nHexxit Client", 
+            "text": "ApexNet Hexxit SMP\n\n\nServer Address: \napexnet.ga\n\n\nGet Hexxit", 
             "title": "Home"
         }, 
         {
             "location": "/#apexnet-hexxit-smp", 
-            "text": "Server Address:  apexnet.ga", 
+            "text": "", 
             "title": "ApexNet Hexxit SMP"
         }, 
         {
-            "location": "/#hexxit-client", 
+            "location": "/#server-address-apexnetga", 
             "text": "", 
-            "title": "Hexxit Client"
+            "title": "Server Address: apexnet.ga"
+        }, 
+        {
+            "location": "/#get-hexxit", 
+            "text": "", 
+            "title": "Get Hexxit"
         }
     ]
 }
