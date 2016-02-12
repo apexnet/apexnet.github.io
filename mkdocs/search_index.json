@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "ApexNet Hexxit SMP\n\n\nServer Address: apexnet.ga\n\n\nGet Hexxit\n\n\n\n\nGuide: Installing Hexxit\n\n\nStep 1\n: Download and run Hexxit.exe from above\n\n\n\n\nStep 2\n: Click Extract\n\n\n\n\nDone!\n You can run Hexxit from your desktop anytime.\n\n\n\n\nStep 3\n: Change USERNAME to your ApexNet username\n\n\n\n\nStep 4\n: Save and Launch\n\n\n\n\nStep 5\n: Click Play!\n\n\nMake sure your launcher is set to Hexxit and says 1.5.2-BLAH.\n\n\n\n\nStep 6\n: Have a root beer and enjoy!\n\n\n\n\nSupport\n\n\nIf you don't have 61 mods loaded, can't install Hexxit, or you are having trouble\nwith our launcher, contact nexus331@gmail.com.\n\n\nImgur Screenshots", 
+            "text": "ApexNet Hexxit SMP\n\n\nServer Address: apexnet.ga\n\n\nGet Hexxit\n\n\n\n\nGuide: Installing Hexxit\n\n\nStep 1\n: Download and run Hexxit.exe (the above)\n\n\n\n\nStep 2\n: Click Extract\n\n\n\n\nDone!\n You can run Hexxit from your desktop anytime.\n\n\n\n\nStep 3\n: Change USERNAME to your ApexNet username\n\n\n\n\nStep 4\n: Save and Launch\n\n\n\n\nStep 5\n: Click Play!\n\n\nMake sure your launcher is set to Hexxit and says 1.5.2-BLAH.\n\n\n\n\nStep 6\n: Have a root beer and enjoy!\n\n\n\n\nSupport\n\n\nIf you don't have 61 mods loaded, can't install Hexxit, or you are having trouble\nwith our launcher, contact nexus331@gmail.com.\n\n\nImgur Screenshots", 
             "title": "Home"
         }, 
         {
@@ -26,9 +26,9 @@
             "title": "Guide: Installing Hexxit"
         }, 
         {
-            "location": "/#step-1-download-and-run-hexxitexe-from-above", 
+            "location": "/#step-1-download-and-run-hexxitexe-the-above", 
             "text": "", 
-            "title": "Step 1: Download and run Hexxit.exe from above"
+            "title": "Step 1: Download and run Hexxit.exe (the above)"
         }, 
         {
             "location": "/#step-2-click-extract", 
@@ -52,8 +52,13 @@
         }, 
         {
             "location": "/#step-5-click-play", 
-            "text": "Make sure your launcher is set to Hexxit and says 1.5.2-BLAH.", 
+            "text": "", 
             "title": "Step 5: Click Play!"
+        }, 
+        {
+            "location": "/#make-sure-your-launcher-is-set-to-hexxit-and-says-152-blah", 
+            "text": "", 
+            "title": "Make sure your launcher is set to Hexxit and says 1.5.2-BLAH."
         }, 
         {
             "location": "/#step-6-have-a-root-beer-and-enjoy", 
