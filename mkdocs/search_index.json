@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "ApexNet Hexxit SMP\n\n\nServer Address: apexnet.ga\n\n\nGet Hexxit\n\n\n\n\nGuide: Installing Hexxit\n\n\nStep 1\n: Download and run Hexxit.exe (the above)\n\n\n\n\nStep 2\n: Click Extract\n\n\n\n\nDone!\n You can run Hexxit from your desktop anytime.\n\n\n\n\nStep 3\n: Change USERNAME to your ApexNet username\n\n\n\n\nStep 4\n: Save and Launch\n\n\n\n\nStep 5\n: Click Play!\n\n\nMake sure your launcher is set to Hexxit and says 1.5.2-BLAH.\n\n\n\n\nStep 6\n: Have a root beer and enjoy!\n\n\n\n\nSupport\n\n\nIf you don't have 61 mods loaded, can't install Hexxit, or you are having trouble\nwith our launcher, contact nexus331@gmail.com.\n\n\nImgur Screenshots", 
+            "text": "ApexNet Hexxit SMP\n\n\nServer Address: apexnet.ga\n\n\nHexxit Version:\n\n\nGet Technic for Apex (cracked)\n\n\n\n\nGuide: Installing Hexxit\n\n\nStep 1\n: Download ApexTechnic.exe  and put it on your desktop(above)\n\n\n\n\nStep 2\n: Run it and click install\n\n\n\n\nStep 3\n Wait for Technic to setup.\n\n\n\n\nStep 3\n: Type in your Apex username and login\n\n\n\n\nDone!\n You can launch Technic from your desktop anytime.\n\n\n\n\nTo chnage Moodpack version:\n\n\n1: Click Modpack Options and chnage it", 
             "title": "Home"
         }, 
         {
@@ -16,9 +16,14 @@
             "title": "Server Address: apexnet.ga"
         }, 
         {
-            "location": "/#get-hexxit", 
+            "location": "/#hexxit-version", 
             "text": "", 
-            "title": "Get Hexxit"
+            "title": "Hexxit Version:"
+        }, 
+        {
+            "location": "/#get-technic-for-apex-cracked", 
+            "text": "", 
+            "title": "Get Technic for Apex (cracked)"
         }, 
         {
             "location": "/#guide-installing-hexxit", 
@@ -26,49 +31,39 @@
             "title": "Guide: Installing Hexxit"
         }, 
         {
-            "location": "/#step-1-download-and-run-hexxitexe-the-above", 
+            "location": "/#step-1-download-apextechnicexe-and-put-it-on-your-desktopabove", 
             "text": "", 
-            "title": "Step 1: Download and run Hexxit.exe (the above)"
+            "title": "Step 1: Download ApexTechnic.exe  and put it on your desktop(above)"
         }, 
         {
-            "location": "/#step-2-click-extract", 
+            "location": "/#step-2-run-it-and-click-install", 
             "text": "", 
-            "title": "Step 2: Click Extract"
+            "title": "Step 2: Run it and click install"
         }, 
         {
-            "location": "/#done-you-can-run-hexxit-from-your-desktop-anytime", 
+            "location": "/#step-3-wait-for-technic-to-setup", 
             "text": "", 
-            "title": "Done! You can run Hexxit from your desktop anytime."
+            "title": "Step 3 Wait for Technic to setup."
         }, 
         {
-            "location": "/#step-3-change-username-to-your-apexnet-username", 
+            "location": "/#step-3-type-in-your-apex-username-and-login", 
             "text": "", 
-            "title": "Step 3: Change USERNAME to your ApexNet username"
+            "title": "Step 3: Type in your Apex username and login"
         }, 
         {
-            "location": "/#step-4-save-and-launch", 
+            "location": "/#done-you-can-launch-technic-from-your-desktop-anytime", 
             "text": "", 
-            "title": "Step 4: Save and Launch"
+            "title": "Done! You can launch Technic from your desktop anytime."
         }, 
         {
-            "location": "/#step-5-click-play", 
+            "location": "/#to-chnage-moodpack-version", 
             "text": "", 
-            "title": "Step 5: Click Play!"
+            "title": "To chnage Moodpack version:"
         }, 
         {
-            "location": "/#make-sure-your-launcher-is-set-to-hexxit-and-says-152-blah", 
+            "location": "/#1-click-modpack-options-and-chnage-it", 
             "text": "", 
-            "title": "Make sure your launcher is set to Hexxit and says 1.5.2-BLAH."
-        }, 
-        {
-            "location": "/#step-6-have-a-root-beer-and-enjoy", 
-            "text": "", 
-            "title": "Step 6: Have a root beer and enjoy!"
-        }, 
-        {
-            "location": "/#support", 
-            "text": "If you don't have 61 mods loaded, can't install Hexxit, or you are having trouble\nwith our launcher, contact nexus331@gmail.com.  Imgur Screenshots", 
-            "title": "Support"
+            "title": "1: Click Modpack Options and chnage it"
         }
     ]
 }
